@@ -3,11 +3,9 @@
 1. Agatha Marcella   1313618006
 2. Fathimah Az Zahra 1313618012
 ## ROCK
-Name Project :
+* References :
 
-References :
-
-Code :
+* Code :
 ## Contributors
 **Agatha Marcella**-*Ilmu Komputer Universitas Negeri Jakarta*-[avocado23](https://github.com/avocado23)
 

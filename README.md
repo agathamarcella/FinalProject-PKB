@@ -3,9 +3,9 @@
 1. Agatha Marcella   1313618006
 2. Fathimah Az Zahra 1313618012
 ## ROCK
-* References :[Rock](https://github.com/avocado23/FinalProject-PKB/blob/main/ROCK.pdf)
+* References : [Rock](https://github.com/avocado23/FinalProject-PKB/blob/main/ROCK.pdf)
 
-* Code :
+* Code : 
 ## Contributors
 **Agatha Marcella**-*Ilmu Komputer Universitas Negeri Jakarta*-[avocado23](https://github.com/avocado23)
 

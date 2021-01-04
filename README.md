@@ -7,5 +7,5 @@ Name Project :
 References :
 Code :
 ## Contributors
-**Agatha Marcella** *Ilmu Komputer Universitas Negeri Jakarta* @avocado23
-**Fathimah Az Zahra** *Ilmu Komputer Universitas Negeri Jakarta* @azahrx
+**Agatha Marcella**-*Ilmu Komputer Universitas Negeri Jakarta*-@avocado23
+**Fathimah Az Zahra**-*Ilmu Komputer Universitas Negeri Jakarta*-@azahrx

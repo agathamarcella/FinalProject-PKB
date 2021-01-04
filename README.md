@@ -9,6 +9,6 @@ References :
 
 Code :
 ## Contributors
-**Agatha Marcella**-*Ilmu Komputer Universitas Negeri Jakarta*-vavocado23
+**Agatha Marcella**-*Ilmu Komputer Universitas Negeri Jakarta*-[avocado23](https://github.com/avocado23)
 
-**Fathimah Az Zahra**-*Ilmu Komputer Universitas Negeri Jakarta*-vazahrx
+**Fathimah Az Zahra**-*Ilmu Komputer Universitas Negeri Jakarta*-[azahrx](https://github.com/azahrx)
